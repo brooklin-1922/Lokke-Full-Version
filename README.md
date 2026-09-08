@@ -274,3 +274,6 @@ This repository serves as the official landing page for Lokke. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Lokke today!**
+
+---
+**Last updated:** 2026-09-08 16:54:29 UTC
